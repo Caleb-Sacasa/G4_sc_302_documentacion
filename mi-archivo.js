@@ -1,4 +1,4 @@
-console.log("hola mundo")
+console.log("holamundo_editado")
 Este es un ejercicio de uso de 
 git y github
-console.log("Margoth Amores Varela")
+console.log("Cambios en el archivo")
